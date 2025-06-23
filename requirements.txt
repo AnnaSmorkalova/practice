@@ -1,0 +1,7 @@
+certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+flit_core @ file:///opt/conda/conda-bld/flit-core_1644941570762/work/source/flit_core
+numpy==1.21.6
+opencv-python==4.11.0.86
+torch==1.11.0
+typing_extensions @ file:///C:/b/abs_89eui86zuq/croot/typing_extensions_1669923792806/work
+wincertstore==0.2
